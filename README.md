@@ -6,14 +6,32 @@ Je suis développeur d'applications, passionné par la conception et le dévelop
 
 Après trois années de formation en Génie logiciel à IPNET, je développe mes compétences à travers des projets personnels et des réalisations pour des clients.
 
-### 🛠️ Compétences techniques
+### 🛠️ Technologies & Outils
 
-- **Frontend :** React, JavaScript, HTML, CSS
-- **Backend :** PHP, Laravel, Symfony, Python, Django, Node.js
-- **Bases de données :** MySQL
-- **Développement mobile :** Flutter
-- **Outils :** Git, GitHub, VS Code
-- **Intelligence artificielle :** utilisation d'agents IA pour l'analyse, le développement et la résolution de problèmes techniques.
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js, Next.js, Angular
+- Vite
+
+**Backend**
+- PHP, Laravel, Symfony
+- Python, Django
+- Node.js, Hono
+- Java
+
+**Bases de données & Backend as a Service**
+- SQL, MySQL, PostgreSQL
+- Supabase
+
+**Développement mobile**
+- Flutter
+- React Native
+
+**Outils & environnement**
+- Git, GitHub, VS Code
+- Agents et outils d'intelligence artificielle pour le développement
+
+*Technologies utilisées, explorées et approfondies à travers mes projets et mon apprentissage continu.*
 
 ### 🚀 Quelques projets
 
